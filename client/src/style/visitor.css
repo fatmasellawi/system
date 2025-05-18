@@ -1,0 +1,60 @@
+.patrol form {
+    max-width: 500px;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: #f4f6f8;
+    border-radius: 20px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+  }
+  
+  form input[type="text"],
+  form input[type="date"],
+  form input[type="number"] {
+    width: 100%;
+    padding: 10px 12px;
+    margin: 0.8rem 0;
+    border-radius: 15px;
+    box-sizing: border-box;
+    transition: 0.3s;
+  }
+  
+  form input {
+    border-color: #007bff;
+    outline: none;
+    border-radius: 15px;
+
+  }
+  
+  label {
+    display: flex;
+    align-items: center;
+    margin: 0.5rem 0;
+    font-size: 15px;
+    color: #141111;
+  }
+  
+  input[type="checkbox"] {
+    margin-right: 8px;
+    accent-color: green;
+    transform: scale(1.2);
+    border-radius: 8px;
+
+  }
+  
+  button[type="submit"] {
+    background-color: #28a745;
+    color: white;
+    padding: 12px 18px;
+    margin-top: 1rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 100%;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #218838;
+  }
