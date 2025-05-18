@@ -6,29 +6,29 @@ import Navbar from '../../components/Navbar';
 import { useTheme } from '@mui/material/styles';
 
 import FlexBetween from '../../components/FlexBetween';*/
-
 import Sidebar from '../../components/Sidebar';
+
 const Layout = () => {
-
   const isNonMobile = useMediaQuery("(min-width: 600px)");
-  const [isSidebarOpen, setIsSidebarOpen] = useState(true); // ou false selon le besoin
+  const [isSidebarOpen, setIsSidebarOpen] = useState(true);
+
   return (
- <Box  diplay = {isNonMobile ? "flex" : "block" }width= "100%" height= "100%" sx={{ display: "flex"}}>
-  <Sidebar 
-  isNonMobile= {isNonMobile}
-  drawerWidth = "250px"
-  isSidebarOpen = {isSidebarOpen}
-  setIsSidebarOpen = {setIsSidebarOpen}/>
-    <Box>
-        <Navbar 
-         isSidebarOpen = {isSidebarOpen}
-         setIsSidebarOpen = {setIsSidebarOpen}
+    <Box display={isNonMobile ? "flex" : "block"} width="100%" height="100%">
+      <Sidebar
+        isNonMobile={isNonMobile}
+        drawerWidth="250px"
+        isSidebarOpen={isSidebarOpen}
+        setIsSidebarOpen={setIsSidebarOpen}
+      />
+      <Box flexGrow={1}>
+        <Navbar
+          isSidebarOpen={isSidebarOpen}
+          setIsSidebarOpen={setIsSidebarOpen}
         />
-        <Outlet/>
+        <Outlet />
+      </Box>
     </Box>
+  );
+};
 
- </Box> 
-  )
-}
-
-export default Layout
+export default Layout;

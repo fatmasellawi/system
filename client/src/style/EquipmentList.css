@@ -1,0 +1,40 @@
+/* EquipmentList.css */
+
+.equipment-container {
+    padding: 2rem;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+  }
+  
+  .equipment-container h3 {
+    margin-bottom: 1rem;
+    color: #333;
+  }
+  
+  .equipment-table {
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .equipment-table th,
+  .equipment-table td {
+    padding: 12px 16px;
+    border: 1px solid #ddd;
+    text-align: left;
+  }
+  
+  .equipment-table th {
+    background-color: #007BFF;
+    color: white;
+  }
+  
+  .equipment-table tr:nth-child(even) {
+    background-color: #f2f2f2;
+  }
+  
+  .equipment-table tr:hover {
+    background-color: #e0f0ff;
+  }
+  
