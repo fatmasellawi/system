@@ -1,0 +1,75 @@
+{"level":"error","message":"Erreur ajout patrouille : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur ajout patrouille : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur création : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur création : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur envoi email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur envoi email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur envoi email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur d'envoi d'email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur envoi email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ MAIL_USER ou MAIL_PASS non défini dans le fichier .env"}
+{"level":"error","message":"❌ MAIL_USER ou MAIL_PASS non défini dans le fichier .env"}
+{"level":"error","message":"❌ MAIL_USER ou MAIL_PASS non défini dans le fichier .env"}
+{"level":"error","message":"❌ Erreur envoi email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ Erreur envoi email : Missing credentials for \"PLAIN\""}
+{"level":"error","message":"❌ MAIL_USER ou MAIL_PASS non défini dans .env"}
+{"level":"error","message":"❌ MAIL_USER ou MAIL_PASS non défini dans .env"}
+{"level":"error","message":"❌ MAIL_USER ou MAIL_PASS non défini dans .env"}
+{"level":"error","message":"❌ MAIL_USER ou MAIL_PASS non défini dans .env"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Aucun email défini pour le département : mecanique"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Aucun email défini pour le département : mecanique"}
+{"level":"error","message":"❌ Erreur envoi email : No recipients defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : No recipients defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : validateEmail is not defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : validateEmail is not defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : validateEmail is not defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Adresse e-mail invalide : undefined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Adresse e-mail invalide : undefined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Adresse e-mail invalide : undefined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Adresse e-mail invalide : undefined"}
+{"level":"error","message":"❌ Erreur envoi email à undefined : No recipients defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Échec de l'envoi de l'e-mail à undefined"}
+{"level":"error","message":"❌ Erreur envoi email à undefined : No recipients defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Échec de l'envoi de l'e-mail à undefined"}
+{"level":"error","message":"❌ Adresse e-mail du destinataire non définie"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Adresse e-mail du destinataire non définie"}
+{"level":"error","message":"❌ Adresse e-mail du destinataire non définie"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Adresse e-mail du destinataire non définie"}
+{"level":"error","message":"❌ Adresse e-mail du destinataire non définie"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Adresse e-mail du destinataire non définie"}
+{"level":"error","message":"❌ Erreur envoi email à undefined : getaddrinfo ENOTFOUND smtp.gmail.com"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Échec de l'envoi de l'e-mail à undefined"}
+{"level":"error","message":"❌ Erreur envoi email à undefined : No recipients defined"}
+{"level":"error","message":"❌ Erreur serveur lors de la création de la visite : Échec de l'envoi de l'e-mail à undefined"}
+{"level":"error","message":"❌ Erreur serveur lors de la création de la visite : visitorEmail is not defined"}
+{"level":"error","message":"❌ Échec d'envoi de l'email à undefined : No recipients defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Échec de l'envoi de l'e-mail à undefined"}
+{"level":"error","message":"❌ Échec d'envoi de l'email à undefined : No recipients defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Échec de l'envoi de l'e-mail à undefined"}
+{"level":"error","message":"❌ Échec d'envoi de l'email à undefined : No recipients defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Échec de l'envoi de l'e-mail à undefined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Cannot destructure property 'visitorName' of 'req.body' as it is undefined."}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Cannot destructure property 'visitorName' of 'req.body' as it is undefined."}
+{"level":"error","message":"❌ Échec d'envoi de l'email à undefined : No recipients defined"}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Échec de l'envoi de l'e-mail à undefined"}
+{"level":"error","message":"❌ Aucun destinataire email défini."}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Aucune adresse email trouvée pour l’envoi."}
+{"level":"error","message":"❌ Aucun destinataire email défini."}
+{"level":"error","message":"❌ Erreur lors de la création de la visite : Aucune adresse email trouvée pour l’envoi."}
+{"level":"error","message":"❌ Erreur création patrouille : workPermit is not defined"}
+{"level":"error","message":"❌ Erreur création patrouille : workPermit is not defined"}
+{"level":"error","message":"❌ Erreur création patrouille : workPermit is not defined"}
+2025-04-30T03:42:10.338Z [ERROR]: Erreur envoi email patrouille 68119c1224cef789d3a72dd7: Cannot read properties of undefined (reading 'recipient')
+2025-04-30T04:03:57.535Z [ERROR]: Erreur envoi email patrouille 6811a110754b6dcd841c54a9: Cannot read properties of undefined (reading 'recipient')
+2025-04-30T10:15:36.369Z [ERROR]: Erreur lors de l'envoi d'email: ENOENT: no such file or directory, open 'C:\MangmentSystem\server\undefined\uploads\1746008135363-173293179.jpg'
+2025-04-30T10:15:43.463Z [ERROR]: Erreur lors de l'envoi d'email: ENOENT: no such file or directory, open 'C:\MangmentSystem\server\undefined\uploads\1746008135363-173293179.jpg'

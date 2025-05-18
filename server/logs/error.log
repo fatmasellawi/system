@@ -1,0 +1,70 @@
+2025-05-02 06:54:09 [ERROR] uncaughtException: window is not defined
+ReferenceError: window is not defined
+    at file:///C:/MangmentSystem/server/index.js:24:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+ReferenceError: window is not defined
+    at file:///C:/MangmentSystem/server/index.js:24:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-02 06:54:17 [ERROR] uncaughtException: window is not defined
+ReferenceError: window is not defined
+    at file:///C:/MangmentSystem/server/index.js:24:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+ReferenceError: window is not defined
+    at file:///C:/MangmentSystem/server/index.js:24:1
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-02 06:57:39 [ERROR] uncaughtException: nodemailer is not defined
+ReferenceError: nodemailer is not defined
+    at file:///C:/MangmentSystem/server/index.js:80:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+ReferenceError: nodemailer is not defined
+    at file:///C:/MangmentSystem/server/index.js:80:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-02 07:34:20 [ERROR] uncaughtException: nodemailer is not defined
+ReferenceError: nodemailer is not defined
+    at file:///C:/MangmentSystem/server/index.js:80:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+ReferenceError: nodemailer is not defined
+    at file:///C:/MangmentSystem/server/index.js:80:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-02 07:49:13 [ERROR] uncaughtException: nodemailer is not defined
+ReferenceError: nodemailer is not defined
+    at file:///C:/MangmentSystem/server/index.js:80:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+ReferenceError: nodemailer is not defined
+    at file:///C:/MangmentSystem/server/index.js:80:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+2025-05-02 07:50:29 [ERROR] uncaughtException: nodemailer is not defined
+ReferenceError: nodemailer is not defined
+    at file:///C:/MangmentSystem/server/index.js:80:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+ReferenceError: nodemailer is not defined
+    at file:///C:/MangmentSystem/server/index.js:80:21
+    at ModuleJob.run (node:internal/modules/esm/module_job:271:25)
+    at async onImport.tracePromise.__proto__ (node:internal/modules/esm/loader:578:26)
+    at async asyncRunEntryPointWithESMLoader (node:internal/modules/run_main:116:5)
+{"error":"Cannot read properties of undefined (reading 'recipient')","level":"error","message":"Send Patrol Email Failed","params":{"id":"undefined"},"stack":"TypeError: Cannot read properties of undefined (reading 'recipient')\n    at sendPatrolEmailById (file:///C:/MangmentSystem/server/controllers/patrolController.js:297:13)\n    at Layer.handleRequest (C:\\MangmentSystem\\server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\MangmentSystem\\server\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\MangmentSystem\\server\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\MangmentSystem\\server\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\MangmentSystem\\server\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\MangmentSystem\\server\\node_modules\\router\\index.js:295:15\n    at param (C:\\MangmentSystem\\server\\node_modules\\router\\index.js:600:14)\n    at param (C:\\MangmentSystem\\server\\node_modules\\router\\index.js:610:14)\n    at processParams (C:\\MangmentSystem\\server\\node_modules\\router\\index.js:664:3)","timestamp":"2025-05-02 18:12:24"}
+{"error":"getaddrinfo ENOTFOUND smtp.gmail.com","level":"error","message":"SMTP Connection Failed","timestamp":"2025-05-02 22:15:06"}
+{"error":"getaddrinfo ENOTFOUND smtp.gmail.com","level":"error","message":"SMTP Connection Failed","timestamp":"2025-05-02 22:15:18"}
+{"error":"Cannot read properties of undefined (reading 'No')","level":"error","message":"Create Patrol Error","timestamp":"2025-05-02 23:11:00"}
